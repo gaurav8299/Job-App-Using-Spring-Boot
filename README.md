@@ -16,3 +16,6 @@
   - **Add** a review for a company
   - **Delete** an existing review
   - **Update** review details
+
+  **Contact**
+  For any inquiries or feedback, please contact**gauravrajput3005@gmail.com** or create an issue in the repository 
